@@ -13,6 +13,3 @@ I sit at the intersection of African Fintech and Global Travel. My mission is to
 
 🌍 Impact & Community
 - I’m a proud member of [Darkies in Tech](https://www.darkiesintech.com/), contributing to a community that's shaping the future of the African tech landscape. I believe that by simplifying the "how" of payments, we unlock the "why" of African entrepreneurship.
-
-📫 Let's Connect on
-LinkedIn: https://www.linkedin.com/in/ngwa/
